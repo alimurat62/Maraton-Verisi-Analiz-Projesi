@@ -180,7 +180,7 @@
 
 ---
 
-# Genel Değerlendirme ve Sonuçlar
+## 7 Genel Değerlendirme ve Sonuçlar
 
 Yapılan kapsamlı veri ön işleme adımları sayesinde eksik ve aykırı değerler titizlikle ele alınarak analizlerin doğruluğu artırılmıştır. Keşifsel veri analizi ile maraton katılımcılarının yaş, cinsiyet ve performans özellikleri detaylıca incelenmiş; yıllara göre katılımcı ve yarış sayılarındaki değişim trendleri ortaya konmuştur.
 
